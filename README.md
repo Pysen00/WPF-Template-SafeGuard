@@ -1,5 +1,7 @@
 Antivirus Software Template:
-This antivirus software template provides a robust and functional starting point for developing modern security applications. Designed to be easily customizable, this template allows developers to quickly set up a visually appealing and fully operational antivirus program, which can then be styled and tailored to meet specific design requirements.
+
+This antivirus software template provides a robust and functional starting point for developing modern security applications.
+Designed to be easily customizable, this template allows developers to quickly set up a visually appealing and fully operational antivirus program, which can then be styled and tailored to meet specific design requirements.
 
 
 Key Features:
